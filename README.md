@@ -7,8 +7,8 @@
 <a href="https://www.linkedin.com/in/satyajit-sahoo-28052001" target="_blank"><img align="center" src="https://raw.githubusercontent.com/satyajitsahoo/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p> -->
 
-[<img align="left" alt="Mahesh | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][[linkedin](https://www.linkedin.com/in/satyajit-sahoo-28052001)]
-[<img align="left" alt="Mahesh | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][[twitter](https://twitter.com/Satyaji33351978)]
+[[linkedin](https://www.linkedin.com/in/satyajit-sahoo-28052001)]
+[[twitter](https://twitter.com/Satyaji33351978)]
 
 </br>
 
